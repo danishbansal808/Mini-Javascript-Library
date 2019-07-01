@@ -1,0 +1,23 @@
+{
+  "name": "minilibdanish",
+  "version": "1.0.0",
+  "description": "mini library made by Danish Bansal",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danishbansal808/Mini-Javascript-Library.git"
+  },
+  "author": "Danish Bansal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danishbansal808/Mini-Javascript-Library/issues"
+  },
+  "homepage": "https://github.com/danishbansal808/Mini-Javascript-Library#readme",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  }
+}
