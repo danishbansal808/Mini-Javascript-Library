@@ -32,3 +32,6 @@ Directory Structure
    
     server.js
         server side code (Without Credidentials)
+        
+        
+   Do check the deployment by clicking on environmets.
